@@ -2,7 +2,7 @@
 
 ### 🚀 Embedded Systems & IoT Developer
 
-I'm a third-year Electronics and Communication Engineering (ECE) student passionate about Embedded Systems, IoT, and building real-world technology solutions. I enjoy developing hardware and software projects that solve practical problems and continuously improving my technical skills.
+I'm a final-year Electronics and Communication Engineering (ECE) student passionate about Embedded Systems, IoT, and building real-world technology solutions. I enjoy developing hardware and software projects that solve practical problems and continuously improving my technical skills.
 
 ---
 
